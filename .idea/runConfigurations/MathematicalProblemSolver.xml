@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Mathematical Problem Solver" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="mps.MainApp" />
+    <option name="VM_PARAMETERS" value="--enable-native-access=javafx.graphics --module-path &quot;C:\javafx-sdk-25.0.2\javafx-sdk-25.0.2\lib&quot; --add-modules javafx.controls" />
+    <module name="Mathematical Problem Solver" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
